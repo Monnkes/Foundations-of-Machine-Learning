@@ -1,5 +1,5 @@
-# Foundations-of-Machine-Teaching
-All tasks and notebooks I made during Foundations of Machine Teaching course at AGH University of Krakow <br>
+# Foundations-of-Machine-Learning
+All tasks and notebooks I made during Foundations of Machine Learning course at AGH University of Krakow <br>
 All content in polish.
 
 ### Laboratory Objectives  
