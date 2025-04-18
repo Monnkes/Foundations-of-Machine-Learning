@@ -9,3 +9,6 @@ Linear regression, Ridge regression, LASSO regression, ElasticNet regression, Qu
 
 #### Lab2  
 Neighborhood-based methods, k Nearest Neighbors (kNN), metrics, curse of dimensionality, k-d tree, Approximate Nearest Neighbors (ANN), skip list, Hierarchical Navigable Small World (HNSW)
+
+#### Lab3
+Logistic regression, linear SVM, kernel SVM, approximation methods: Nystroem, RBFSampler, Fastfood
